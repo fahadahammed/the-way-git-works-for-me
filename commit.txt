@@ -2,3 +2,7 @@ My Commit 1
 My Commit 2
 My Commit 3
 My Commit 4
+My Commit W1
+My Commit W2
+My Commit 5
+My Commit 6
