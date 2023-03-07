@@ -6,3 +6,5 @@ My Commit W1
 My Commit W2
 My Commit 5
 My Commit 6
+My latest commit 7
+ANother commit 8
